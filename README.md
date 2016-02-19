@@ -6,6 +6,5 @@
 - [2.文件结构](toc-struct.md)
 - [3.文案风格](copywriting-guide.md)
 - [4.常用专业词汇](glossary.md)
-- [Markdown](markdown.md)
 
 > 编写风格起草借鉴于极客学院 WIKI，在此进行感谢：<http://wiki.jikexueyuan.com/project/wiki-editors-guidelines>
