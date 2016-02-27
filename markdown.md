@@ -9,6 +9,8 @@
 - Mac 用户推荐使用编辑器 MacDown     
 下载地址：<http://macdown.uranusjr.com/>
 
+<h2 id="information">测试：锚点要定位的位置</h2>
+
 ## 标题
 
 在标题内容前添加 `# + 空格` 就可以实现标题样式的添加：
@@ -170,12 +172,7 @@ public class Person {
 
 书写示例：
 
-```
-极客学院是中国最大的 IT 职业在线教育平台。[[锚点名]](#footnode)
-
-[锚点名]<a name="footnode"></a>我的示例。
-
-```
+[锚点名](#information)
 
 效果：
 
