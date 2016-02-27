@@ -151,7 +151,7 @@
 书写示例：
 
 <pre>
-```
+```java
 // 代码区域的上下分别用三个 ` 括起来
 public class Person {
     // 代码缩进请使用 四个空格，不要使用 Tab
@@ -161,12 +161,19 @@ public class Person {
 
 效果： 
 
-```
+```java
 // 代码区域的上下分别用三个 ` 括起来
 public class Person {
     // 代码缩进请使用 四个空格，不要使用 Tab
 }
 ```
+
+支持的语法：
+
+- bash, java, html, css, javascript, json, xml, ini,
+- actionscript, apache, clojure, cmake, coffeescript, cpp, cs, d, delphi, django, erlang, go, smalltalk, sql, 
+- haskell, http, lisp, lua, markdown, matlab, nginx, objectivec, perl, php, python, r, ruby, scala,tex, vbscript
+
 
 ## 锚点使用
 
