@@ -170,15 +170,9 @@ public class Person {
 
 ## 锚点使用
 
-书写示例：
+书写示例（具体开源文件内容）：
 
 [锚点名](#information)
-
-效果：
-
-极客学院是中国最大的 IT 职业在线教育平台。[[锚点名]](#footnode)
-
-[锚点名]<a name="footnode"></a>我的示例。
 
  
 
