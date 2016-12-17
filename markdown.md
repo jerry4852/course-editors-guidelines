@@ -1,15 +1,15 @@
-# 第二步 Markdown 五分钟速成
-
+# Markdown 五分钟速成
 
 ## Markdown 工具下载
 
-- Windows 用户推荐使用编辑器 MarkdownPad  
-下载地址：<http://markdownpad.com>
+- Windows 用户推荐使用编辑器 HBuilder  
+下载地址：<http://rj.baidu.com/soft/detail/35959.html?ald>
+
+  Hbuilder 的快速使用指南，见下面截图中的文字标注。  
+![Hbuilder 快速使用指南](images/hbuilder.png)
   
 - Mac 用户推荐使用编辑器 MacDown     
 下载地址：<http://macdown.uranusjr.com/>
-
-<h2 id="information">测试：锚点要定位的位置</h2>
 
 ## 标题
 
@@ -117,7 +117,7 @@
 
 效果：  
 
-![我是示例图片的描述](images/example.png)    
+![Selenium IDE web 自动化测试入门](images/sample.png)    
 
 ## 添加超链接  
 
@@ -129,7 +129,7 @@
 
 效果：  
 
-[点击跳转到极客学院](http://www.jikexueyuan.com) 
+[点击跳转到王顶老师的课程页面](http://edu.51cto.com/lecturer/user_id-8606427.html) 
 
 ## 引用
 
@@ -144,6 +144,7 @@
   
 >注意：  
 我是引用的内容（空一行就结束引用）。
+
 
 ## 添加代码
 
@@ -172,15 +173,4 @@ public class Person {
 - bash, java, html, css, javascript, json, xml, ini,
 - actionscript, apache, clojure, cmake, coffeescript, cpp, cs, d, delphi, django, erlang, go, smalltalk, sql, 
 - haskell, http, lisp, lua, markdown, matlab, nginx, objectivec, perl, php, python, r, ruby, scala,tex, vbscript
-
-
-## 锚点使用
-
-书写示例（具体开源文件内容）：
-
-[锚点名](#information)
-
- 
-
-
 
