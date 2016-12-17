@@ -1,4 +1,4 @@
-# 第四步 极客学院文案风格指南
+# 文案风格
 
 
 ## 空格
@@ -26,12 +26,12 @@
 
 ## 文件命名
 
-- 文件夹：英文小写（多个英文减号连接）；  
-正确：copywriting-guide  
+- 文件夹：英文小写（多个英文第一个英文单词小写后面的英文单词首字母大写）；  
+正确：copyWritingGuide  
 错误：copywriting_guide、copywritingGuide、CopywritingGuide、copywriting guide
 
-- Markdown 文件：英文小写（多个英文减号连接）；  
-正确：copywriting-guide.md  
+- Markdown 文件：文件夹：英文小写（多个英文第一个英文单词小写后面的英文单词首字母大写）；  
+正确：copyWritingGuide.md  
 错误：copywriting_guide.md、copywritingGuide.md、CopywritingGuide.md、copywriting guide.md
 
 ## 表格形式举例
@@ -42,7 +42,7 @@ markdown 格式
 
 ```
 | Tables        | Are           | Cool  |
-|:------------- |:-------------|:-----|
+|:------------- |:--------------|:------|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
@@ -75,5 +75,5 @@ markdown 格式
 ![](images/图片名字.png)
 ```
 
->注意：图片格式可为： png jpg gif
+>注意：图片格式可为： png、jpg 和 gif
 
